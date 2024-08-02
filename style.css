@@ -1,3 +1,4 @@
+
 @import url("styles/header.css");
 
 :root {
@@ -5,22 +6,12 @@
     --branco: #FFFFFF;
 }
 
-.h1{font-size: 75px;}
-
-.container__imagem {
-    padding: 1em;
-}
-.container {
-    display: flex;
-    align-items: center;
-}
-.cabeçalho {
-    background-color: var(--branco);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+body {
+    background-color: var(--cor-de-fundo);
 }
 
+h1 {
+    background-color: white;
+}
 
-
-
+    
