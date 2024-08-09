@@ -28,5 +28,10 @@
     position: absolute;
     top: 100%; 
 }
+.lista-menu__titulo,
+.lista-menu__item {
+  padding: 1em;
+  background-color: var(--branco);
+}
 
       
